@@ -1,3 +1,4 @@
+![Fernando Iglesias-Suarez](fernando_iglesias-suarez.png)
 ### Profile
 I am a climate scientist with interests in tropospheric and stratospheric chemical, radiative and dynamical processes, understanding links and interactions with other parts of the Earth system, machine learning (ML) techniques applied to model evaluation and development, as well as using Earth System Models to address the scientific challenges of global change.
 
