@@ -32,7 +32,7 @@ National / International
 - 2013–2017 Meteorological observer, Hazelrigg Weather Station, Met Office, Lancaster, UK.
 
 ### Publications
-***Peer reviewed articles*** (Google scholar: http://bit.ly/2mGeGnW)
+***Peer reviewed articles*** ([Google scholar](http://bit.ly/2mGeGnW))
 - Iglesias-Suarez, F., Badia, A., Fernandez, R. P., Cuevas, C. A., Kinnison, D. E., Tilmes, S., Lamarque, J.-F., Long, M. C., Hossaini, R., and Saiz-Lopez, A.: Natural halogens buffer tropospheric ozone in a changing climate. Nat. Clim. Chang, [doi:10.1038/s41558-019-0675-6](https://www.nature.com/articles/s41558-019-0675-6), 2020
 - Barrera, J. A., Fernandez, R. P., Iglesias-Suarez, F., Cuevas, C. A., Lamarque, J.-F., and Saiz-Lopez, A.: Seasonal impact of biogenic VSL bromine on the evolution of mid-latitude lowermost stratospheric ozone during the 21st century. Atmos. Chem. Phys. Discuss., 1, 1680-7375, [doi: 10.5194/acp-2019-109](https://www.atmos-chem-phys-discuss.net/acp-2019-1091/), 2020
 - Yumashev, D., Hope, C., Schaefer, K., Riemann-Campe, K., Iglesias-Suarez, F., Jafarov, E., Burke, E. J., Young, P. J., Elshorbany, Y., and Whiteman, G.: Climate policy implications of nonlinear decline of Arctic land permafrost and other cryosphere elements. Nat. Commun., 10, 1900, [doi:10.1038/s41467-019-09863-x](https://www.nature.com/articles/s41467-019-09863-x), 2019
