@@ -41,7 +41,7 @@ National / International
 - Iglesias-Suarez, F.: Investigating geoengineering solutions to meet the 2ºC target. IBER Journal, 5, 87-108, [ISSN: 1647-1989](http://recil.grupolusofona.pt/handle/10437/7942), 2014
 
 ***Non-peer reviewed articles***
-- Iglesias-Suarez, F.: El Ártico, un termómetro para el cambio climático. The Conversation (Spain), ISSN: 2201-5639, 2019
+- Iglesias-Suarez, F.: El Ártico, un termómetro para el cambio climático. The Conversation (Spain), [ISSN: 2201-5639](https://theconversation.com/el-artico-un-termometro-del-cambio-climatico-122074), 2019
 
 
 ### Markdown
