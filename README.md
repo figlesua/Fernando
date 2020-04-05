@@ -1,7 +1,7 @@
-I am a climate scientist with interests in tropospheric and stratospheric chemical, radiative and dynamical processes, understanding links and interactions with other parts of the Earth system, machine learning techniques applied to model evaluation, and developing and using Earth System Models to address the scientific challenges of global change.
+I am a climate scientist with interests in tropospheric and stratospheric chemical, radiative and dynamical processes, understanding links and interactions with other parts of the Earth system, machine learning (ML) techniques applied to model evaluation and development, as well as using Earth System Models to address the scientific challenges of global change.
 
 ## Research
-I am Research Associate of the [Earth System Model Evaluation and Analysis Department](https://www.dlr.de/pa/en/desktopdefault.aspx/tabid-10557/18322_read-42768/) at the German Aerospace Center ([DLR](https://www.dlr.de/EN/Home/home_node.html)) Institute of Atmospheric Physics.
+I am Research Associate of the [Earth System Model Evaluation and Analysis Department](https://www.dlr.de/pa/en/desktopdefault.aspx/tabid-10557/18322_read-42768/), Institute of Atmospheric Physics, at the German Aerospace Center ([DLR](https://www.dlr.de/EN/Home/home_node.html)). Within the "Understanding and Modelling the Earth System with Machine Learning ([USMILE](https://www.dlr.de/content/en/articles/news/2019/04/20191011_ai-for-understanding-and-modelling-the-earth-system.html))" project, I am focused on developing new methods and approaches via ML means to eliminate long-standing systematic errors in climate models and to provide more robust climate projections.
 
 ### Markdown
 
