@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/figlesua/bio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a climate scientist with interests in tropospheric and stratospheric chemical, radiative and dynamical processes, understanding links and interactions with other parts of the Earth system, machine learning techniques applied to model evaluation, and developing and using Earth System Models to address the scientific challenges of global change.
 
 ### Markdown
 
