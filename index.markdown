@@ -32,7 +32,7 @@ I am Research Associate of the [Earth System Model Evaluation and Analysis Depar
 - 2015 	Visiting PhD student, National Center for Atmospheric Research, Boulder, CO, US.
 - 2011 	Best Debate in ‘Understanding climate change in society’, UEA, Norwich, UK.
 
-### Proffesional service and activities
+### Professional service and activities
 - 2018– Early Career Scientists representative, European Geosciences Union (EGU) Atmospheric Science (AS) Division.
 - 2016– Member of Voice of Young Science, Sense about Science, UK.
 - 2016–2018 Early Career Scientists team representative EGU AS Division.
