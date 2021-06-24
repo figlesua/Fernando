@@ -19,7 +19,7 @@ I am Research Associate of the [Earth System Model Evaluation and Analysis Depar
 - 2004 BSc Environmental Science, Universidad Pablo de Olavide, Seville, Spain.
 
 ### Research and employment
-- 2019–     Research Associate, DLR, Oberpfaffenhofen, Germany
+- 2019–     Research Associate, DLR, Oberpfaffenhofen, Germany.
 - 2017–2019 Research Associate, Spanish National Research Council, Madrid, Spain.
 - 2016      Research Associate, Lancaster University Management School, Lancaster, UK.
 - 2012      Research Assistant, Centro de Investigação em Gestão, Lisbon, Portugal.
